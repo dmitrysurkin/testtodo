@@ -17,7 +17,7 @@
 Настройки сервера расположены в папке api / routes / testApi.js
 
 Сервер соединяет в себе функции базы данных. На нем находится информация с исполнителями и задачами
-![Image alt](https://github.com/dmitrysurkin/testtodo/raw/master/screenshots/1.1.jpeg)
+![Image alt](https://github.com/dmitrysurkin/testtodo/raw/master/screenshots/1.1.jpg)
  
 На сервере при добавлении / изменении задачи происходит сортировка задач по приоритету
 \\ КАРТИНКА
